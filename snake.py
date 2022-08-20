@@ -66,7 +66,7 @@ class Snake:
         self.draw_body(surface)
     
     def selfColide(self):
-        self. 
+        pass
     def update(self):
         self.move()
         self.selfColide()
